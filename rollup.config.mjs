@@ -6,12 +6,6 @@ export default {
       dir: "public/module",
       format: "es",
       sourcemap: true
-    },
-    // SystemJS version, for older browsers
-    {
-      dir: "public/nomodule",
-      format: "system",
-      sourcemap: true
     }
   ]
 };

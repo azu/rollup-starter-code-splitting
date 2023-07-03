@@ -16,7 +16,7 @@ npm install
 Run `npm run build` to create two versions of the app, as defined in rollup.config.js:
 
 * `public/module` contains native JavaScript modules, for browsers that support them
-* `public/nomodule` contains [SystemJS](https://github.com/systemjs/systemjs) modules, for legacy browsers
+* ~~ `public/nomodule` contains [SystemJS](https://github.com/systemjs/systemjs) modules, for legacy browsers ~~
 
 The `public/index.html` file contains two sets of `<script>` tags, one for each version.
 

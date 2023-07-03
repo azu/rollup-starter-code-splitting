@@ -1,0 +1,1 @@
+{"version":3,"file":"used-by-both-0a1f8e7b.js","sources":["../../src/used-by-both.js"],"sourcesContent":["export default {\n\tcolor: 'slategrey',\n\tmessage: 'this is used by both entry points, so will be put in its own chunk'\n};"],"names":[],"mappings":"AAAA,iBAAe;AACf,CAAC,KAAK,EAAE,WAAW;AACnB,CAAC,OAAO,EAAE,oEAAoE;AAC9E,CAAC;;;;"}
